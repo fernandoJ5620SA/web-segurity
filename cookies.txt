@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+subes.becasbenitojuarez.gob.mx	TRUE	/	FALSE	1999999999	BIGipServerPool-SUBES	1921193900.20480.0000
+subes.becasbenitojuarez.gob.mx	TRUE	/	FALSE	1999999999	PHPSESSID	upsuf2h42r9q8rtph1pisj0qe3
+
